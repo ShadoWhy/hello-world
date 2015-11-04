@@ -1,2 +1,2 @@
 # hello-world
-just a nother project
+Eine tradition unter Programmierern
