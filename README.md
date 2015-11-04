@@ -1,2 +1,2 @@
 # hello-world
-Eine tradition unter Programmierern
+Wir machen jetzt mal ne übung
